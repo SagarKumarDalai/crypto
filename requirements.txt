@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+ccxt
+websocket-client
+requests
+gunicorn
